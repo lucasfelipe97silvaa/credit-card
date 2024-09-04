@@ -5,3 +5,9 @@ O projeto de Cartão Virtual Personalizado é uma solução inovadora que permit
 - React-native 
 - Javascript 
 - typescript
+
+## Instalação
+```bash
+# clonar repositorio  
+git clone https://github.com/lucasfelipe97silvaa/cardapio-restaurante
+```
