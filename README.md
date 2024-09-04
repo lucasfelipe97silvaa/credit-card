@@ -10,4 +10,6 @@ O projeto de Cartão Virtual Personalizado é uma solução inovadora que permit
 ```bash
 # clonar repositorio  
 git clone https://github.com/lucasfelipe97silvaa/credit-card.git
+npm install
+npx expo start
 ```
