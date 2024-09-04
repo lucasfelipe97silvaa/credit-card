@@ -6,7 +6,7 @@ O projeto de Cartão Virtual Personalizado é uma solução inovadora que permit
 - Javascript 
 - typescript
 
-## Instalação
+## 💻 Rodando localmente: 
 ```bash
 # clonar repositorio  
 git clone https://github.com/lucasfelipe97silvaa/credit-card.git
