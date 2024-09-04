@@ -9,5 +9,5 @@ O projeto de Cartão Virtual Personalizado é uma solução inovadora que permit
 ## Instalação
 ```bash
 # clonar repositorio  
-git clone https://github.com/lucasfelipe97silvaa/cardapio-restaurante
+git clone https://github.com/lucasfelipe97silvaa/credit-card.git
 ```
